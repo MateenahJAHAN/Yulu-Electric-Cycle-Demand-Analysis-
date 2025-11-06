@@ -144,11 +144,16 @@ Rental demand **varies significantly** with both **Season** and **Weather**.
 
 ##  Project Structure  
 Yulu_CaseStudy/
+
 │
 ├── yulu_data.csv # Dataset
+
 ├── Yulu.ipynb # Full analysis notebook
+
 ├── README.md # Project documentation
+
 └── output_graphs/ # Visualizations
+
 ------yulu pdf # Google collab
 
 
