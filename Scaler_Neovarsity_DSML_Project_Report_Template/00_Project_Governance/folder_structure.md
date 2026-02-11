@@ -37,6 +37,17 @@ This guide helps reviewers quickly locate key report artifacts.
   - Model cards and experiment logs
   - Data dictionary and reproducibility evidence
 
+## 6) Final Submission Artifacts
+
+- `05_Final_Submission/WOOLF_DSML_5_Case_Project_Report.pdf`
+  - Final 100-page report submission PDF
+- `05_Final_Submission/report_build_summary.txt`
+  - Build checks for page count and size limits
+- `05_Final_Submission/charts/`
+  - Chart evidence used in report
+- `05_Final_Submission/scripts/generate_final_report.py`
+  - End-to-end reproducible build script
+
 ## Suggested Reviewer Flow
 
 1. Read package `README.md`

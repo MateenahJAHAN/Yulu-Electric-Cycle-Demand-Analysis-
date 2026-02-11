@@ -43,8 +43,15 @@ Scaler_Neovarsity_DSML_Project_Report_Template/
 │   ├── 03_AeroFit_Descriptive_Stats_20_Pages.md
 │   ├── 04_Netflix_Data_Exploration_20_Pages.md
 │   └── 05_Delhivery_Feature_Engineering_20_Pages.md
-└── 04_Appendices/
-    └── appendix_template.md
+├── 04_Appendices/
+│   └── appendix_template.md
+└── 05_Final_Submission/
+    ├── README.md
+    ├── WOOLF_DSML_5_Case_Project_Report.pdf
+    ├── report_build_summary.txt
+    ├── charts/
+    └── scripts/
+        └── generate_final_report.py
 ```
 
 ## How to Use
@@ -54,6 +61,16 @@ Scaler_Neovarsity_DSML_Project_Report_Template/
 3. Use chapter files in `03_Chapter_Templates/` for modular writing.
 4. Use the checklist in `00_Project_Governance/reviewer_checklist.md` before submission.
 5. Export to PDF/Doc using your preferred tool (Word, Google Docs, Pandoc, Typora, etc.).
+
+## Final Built Submission
+
+The completed PDF report is available at:
+
+`05_Final_Submission/WOOLF_DSML_5_Case_Project_Report.pdf`
+
+Build constraints are recorded in:
+
+`05_Final_Submission/report_build_summary.txt`
 
 ## Notes for Reviewers
 

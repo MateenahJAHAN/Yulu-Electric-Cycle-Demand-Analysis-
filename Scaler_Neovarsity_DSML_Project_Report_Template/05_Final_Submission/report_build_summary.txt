@@ -1,0 +1,8 @@
+WOOLF DSML Project Report Build Summary
+PDF Path: /workspace/Scaler_Neovarsity_DSML_Project_Report_Template/05_Final_Submission/WOOLF_DSML_5_Case_Project_Report.pdf
+Page Count (planned): 100
+Page Count (actual): 100
+File Size: 2.31 MB
+Constraints Check:
+- Minimum 100 pages: PASS
+- Maximum 50 MB size: PASS
