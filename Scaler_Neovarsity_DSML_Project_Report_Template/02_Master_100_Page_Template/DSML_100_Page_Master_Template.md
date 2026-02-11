@@ -9,7 +9,7 @@ Each page line is a placeholder to be filled with final narrative, figures, and 
 - Pages 21-40: Walmart Confidence Interval and CLT
 - Pages 41-60: AeroFit Descriptive Statistics and Probability
 - Pages 61-80: Netflix Data Exploration and Visualization
-- Pages 81-100: Netflix Content Strategy Analysis
+- Pages 81-100: Delhivery Feature Engineering
 
 ## How to Work
 
@@ -120,27 +120,27 @@ Each page line is a placeholder to be filled with final narrative, figures, and 
 
 ---
 
-## Pages 81-100: Netflix Content Strategy Analysis
+## Pages 81-100: Delhivery Feature Engineering
 
 - Page 81: Chapter cover (title, author, date, repository link)
-- Page 82: Executive summary (strategy problem and outcomes)
-- Page 83: Strategic context and leadership view
-- Page 84: Objectives and evaluation criteria
-- Page 85: Evidence base and data caveats
-- Page 86: Content mix baseline
-- Page 87: Regional baseline and expansion opportunities
-- Page 88: Genre/rating baseline and gaps
-- Page 89: Strategy option 1 (TV shows focus)
-- Page 90: Strategy option 2 (kids/family expansion)
-- Page 91: Strategy option 3 (international diversification)
-- Page 92: Strategy option 4 (metadata improvement)
-- Page 93: Prioritization matrix (impact, effort, risk)
-- Page 94: Final recommended strategy portfolio
-- Page 95: Implementation phases (0-3, 3-6, 6-12 months)
-- Page 96: KPI framework for strategy tracking
-- Page 97: Risk register and mitigation plan
-- Page 98: Cross-case synthesis across all five studies
-- Page 99: Final portfolio conclusion
+- Page 82: Executive summary (feature-engineering scope and outcomes)
+- Page 83: Business context and modeling objective
+- Page 84: Raw data schema and feature opportunities
+- Page 85: Data-quality challenges and preprocessing plan
+- Page 86: Baseline preprocessing pipeline
+- Page 87: Feature creation strategy (time, aggregation, interaction)
+- Page 88: Encoding strategy for categorical variables
+- Page 89: Scaling and transformation strategy
+- Page 90: Missing-value treatment and imputation rules
+- Page 91: Outlier and skewness handling strategy
+- Page 92: Feature-selection and leakage checks
+- Page 93: Train/validation split and evaluation protocol
+- Page 94: Baseline model before feature engineering
+- Page 95: Improved model after feature engineering
+- Page 96: Feature importance and interpretability
+- Page 97: Error analysis and segment performance
+- Page 98: Deployment-readiness and production feature pipeline
+- Page 99: Final chapter conclusion and business impact
 - Page 100: Submission declaration and reviewer sign-off
 
 ---

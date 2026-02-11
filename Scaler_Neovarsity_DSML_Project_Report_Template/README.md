@@ -1,14 +1,14 @@
 # Scaler Neovarsity DSML Project Report Template (100 Pages)
 
-This package provides a reviewer-friendly report structure for five case studies sourced from your GitHub projects.
+This package provides a reviewer-friendly report structure for five selected DSML case studies.
 
 ## Selected Case Studies
 
-1. Yulu Electric Cycle Demand Analysis (Hypothesis Testing)
-2. Walmart Black Friday Sales Analysis (Confidence Interval and CLT)
-3. AeroFit Treadmill Customer Profiling (Descriptive Statistics and Probability)
-4. Netflix Data Exploration and Visualization
-5. Netflix Content Strategy Analysis
+1. Delhivery Feature Engineering
+2. Yulu Electric Cycle Demand Analysis (Hypothesis Testing)
+3. Walmart Black Friday Sales Analysis (Confidence Interval and CLT)
+4. AeroFit Treadmill Customer Profiling (Descriptive Statistics and Probability)
+5. Netflix Data Exploration and Visualization
 
 ## What This Template Includes
 
@@ -33,7 +33,7 @@ Scaler_Neovarsity_DSML_Project_Report_Template/
 │       ├── 02_walmart.md
 │       ├── 03_aerofit.md
 │       ├── 04_netflix_data_exploration.md
-│       └── 05_netflix_content_strategy.md
+│       └── 05_delhivery_feature_engineering.md
 ├── 02_Master_100_Page_Template/
 │   ├── DSML_100_Page_Master_Template.md
 │   └── page_allocation.csv
@@ -42,7 +42,7 @@ Scaler_Neovarsity_DSML_Project_Report_Template/
 │   ├── 02_Walmart_CI_CLT_20_Pages.md
 │   ├── 03_AeroFit_Descriptive_Stats_20_Pages.md
 │   ├── 04_Netflix_Data_Exploration_20_Pages.md
-│   └── 05_Netflix_Content_Strategy_20_Pages.md
+│   └── 05_Delhivery_Feature_Engineering_20_Pages.md
 └── 04_Appendices/
     └── appendix_template.md
 ```

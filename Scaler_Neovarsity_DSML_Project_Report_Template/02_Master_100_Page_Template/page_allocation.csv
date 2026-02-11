@@ -3,4 +3,4 @@ page_start,page_end,total_pages,case_study,focus_area,chapter_template
 21,40,20,Walmart Black Friday Sales Analysis,Confidence intervals and CLT segmentation,03_Chapter_Templates/02_Walmart_CI_CLT_20_Pages.md
 41,60,20,AeroFit Treadmill Customer Profiling,Descriptive statistics and probability profiling,03_Chapter_Templates/03_AeroFit_Descriptive_Stats_20_Pages.md
 61,80,20,Netflix Data Exploration and Visualization,EDA and business insight storytelling,03_Chapter_Templates/04_Netflix_Data_Exploration_20_Pages.md
-81,100,20,Netflix Content Strategy Analysis,Strategic recommendations and prioritization,03_Chapter_Templates/05_Netflix_Content_Strategy_20_Pages.md
+81,100,20,Delhivery Feature Engineering,Feature engineering pipeline and modeling readiness,03_Chapter_Templates/05_Delhivery_Feature_Engineering_20_Pages.md
