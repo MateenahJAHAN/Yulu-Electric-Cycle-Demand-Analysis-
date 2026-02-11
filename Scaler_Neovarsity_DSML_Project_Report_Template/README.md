@@ -47,6 +47,7 @@ Scaler_Neovarsity_DSML_Project_Report_Template/
 │   └── appendix_template.md
 └── 05_Final_Submission/
     ├── README.md
+    ├── ACADEMIC_INTEGRITY_DECLARATION.md
     ├── WOOLF_DSML_5_Case_Project_Report.pdf
     ├── report_build_summary.txt
     ├── charts/

@@ -18,6 +18,8 @@ This folder contains the final project-report build artifacts for the five selec
   Final PDF report (generated).
 - `report_build_summary.txt`  
   Build summary including page-count and file-size checks.
+- `ACADEMIC_INTEGRITY_DECLARATION.md`  
+  Signed-style declaration text for originality and WOOLF compliance.
 
 ## Build Instructions
 
@@ -32,3 +34,4 @@ python3 "Scaler_Neovarsity_DSML_Project_Report_Template/05_Final_Submission/scri
 - Minimum 100 pages: enforced by report-generation plan (20 pages x 5 cases)
 - Detailed charts and report sections: generated for every case chapter
 - Target output size: validated in `report_build_summary.txt` (must be <= 50 MB)
+- Academic integrity statement: included in this folder and rendered on final report page 100.

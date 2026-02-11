@@ -1337,6 +1337,8 @@ def analyze_netflix(df: pd.DataFrame) -> CaseReport:
         closure=[
             "EDA establishes a defensible baseline for content portfolio decisions.",
             "Visualization-led insights convert complex catalog structure into strategic direction.",
+            "I confirm that I have thoroughly reviewed the instructions, and I assure that my project fulfills all the specified requirements.",
+            "I confirm that I am the sole creator of this project. Any plagiarism may result in rejection by WOOLF.",
         ],
     )
 
@@ -1387,7 +1389,8 @@ def build_pages_for_case(case: CaseReport, start_page: int) -> List[Dict]:
     pages.append({"kind": "text", "title": "Implementation Roadmap", "bullets": case.roadmap})
     pages.append({"kind": "text", "title": "Risks and Limitations", "bullets": case.risks})
     pages.append({"kind": "text", "title": "Reproducibility and References", "bullets": case.references})
-    pages.append({"kind": "text", "title": "Chapter Closure", "bullets": case.closure})
+    closure_title = "Academic Integrity Declaration" if start_page == 81 else "Chapter Closure"
+    pages.append({"kind": "text", "title": closure_title, "bullets": case.closure})
 
     if len(pages) != 20:
         raise ValueError(f"{case.name} generated {len(pages)} pages; expected 20.")
