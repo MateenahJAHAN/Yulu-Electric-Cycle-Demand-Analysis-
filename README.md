@@ -1,19 +1,4 @@
-# DSML Case Studies Report Template Package
-
-A complete reviewer-friendly 100-page template package has been added at:
-
-`Scaler_Neovarsity_DSML_Project_Report_Template/`
-
-It includes:
-
-- Master 100-page report template
-- Five chapter templates (20 pages each)
-- Case-source synopsis files from your GitHub projects
-- Reviewer checklist and appendix templates
-
----
-
-# Legacy Project README: Yulu Electric Cycle Demand Analysis  
+#  Yulu Electric Cycle Demand Analysis  
 
  
 
