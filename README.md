@@ -167,5 +167,11 @@ Yulu_CaseStudy/
 
 ---
 
+<!-- portfolio-navigation -->
+## Repository guide
 
+- **Code and notebooks** · [Yulu.ipynb](Yulu.ipynb)
+- **Papers and reports** · [Yulu.pdf](reports/Yulu.pdf)
+
+<!-- /portfolio-navigation -->
 
